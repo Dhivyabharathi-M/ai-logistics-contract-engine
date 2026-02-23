@@ -1,0 +1,13 @@
+{
+    "classification": {
+        "category": "SLA",
+        "risk_type": "general",
+        "conditions": "",
+        "jurisdiction": "India",
+        "summary": "Extra wages for overtime"
+    },
+    "clause_id": "18744c9b-178d-4648-a787-8552bdc2eca0",
+    "text": "Extra wages for overtime.--(1) Where an adult motor transport worker works for more than eight hours in any day in any case referred to in the first provision to section 13 or where he is required to work on any day of rest under sub-section (2) of section 19, he shall be entitled to wages at the rate of twice his ordinary rate of wages in respect of the overtime work or the work done on the day of rest, as the case may be",
+    "flesch_score": 48.2433823529412,
+    "industry": "Logistics"
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "User choice for contract term length",
+    "clause_id": "9cb27519-da32-4721-96bd-73044c3e00d5",
+    "text": "In this case the user must choose between options 1, 2, 3 or 6 months and insert one in the blank space (........)",
+    "flesch_score": 84.52318181818181,
+    "industry": "Logistics"
+}

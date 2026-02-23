@@ -1,0 +1,13 @@
+{
+    "classification": {
+        "category": "Liability",
+        "risk_type": "damage",
+        "conditions": "",
+        "jurisdiction": "Global",
+        "summary": "Carrier liability for loading, handling, etc."
+    },
+    "clause_id": "02f23dab-7865-4ad0-a9aa-2751084f69e6",
+    "text": "Subject to the provisions of Article VI, under every contract of carriage of goods by sea the carrier, in relation to the loading, handling, stowage, carriage, custody, care, and discharge of such goods, shall be subject to the responsibilities and liabilities, and entitled to the rights and immunities hereinafter set forth",
+    "flesch_score": 10.752352941176497,
+    "industry": "Logistics"
+}

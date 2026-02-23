@@ -1,0 +1,11 @@
+{
+    "category": "Force Majeure",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Unknown",
+    "summary": "Exempts bill of lading from proving receipt of goods in bulk cargoes based on external weight verification.",
+    "clause_id": "5f59eead-020a-43d4-b1db-0145cec2b23d",
+    "text": "Modification of Rules 4 and 5 of Article III in relation to bulk cargoes.\u2014Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, notwithstanding anything in the Rules, the bill of lading shall not be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment shall not be deemed to have been guaranteed by the shipper",
+    "flesch_score": 20.41629032258068,
+    "industry": "Logistics"
+}

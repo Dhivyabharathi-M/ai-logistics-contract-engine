@@ -1,0 +1,13 @@
+{
+    "classification": {
+        "category": "Dispute Resolution",
+        "risk_type": "delay",
+        "conditions": "arbitration, land, building",
+        "jurisdiction": "India",
+        "summary": "Authorization for inspection and observation during arbitration"
+    },
+    "clause_id": "4513316e-3fc0-4537-bed5-dcf210bef9fb",
+    "text": "(c) the detention, preservation or inspection of any property or thing which is the subject-matter of the dispute in arbitration, or as to which any question may arise therein and authorising for any of the aforesaid purposes any person to enter upon any land or building in the possession of any party, or authorising any samples to be taken, or any observation to be made, or experiment to be tried, which may be necessary or expedient for the purpose of obtaining full information or evidence",
+    "flesch_score": -29.72941176470586,
+    "industry": "Logistics"
+}

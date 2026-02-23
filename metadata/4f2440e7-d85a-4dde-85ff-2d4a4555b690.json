@@ -1,0 +1,11 @@
+{
+    "category": "Definitions",
+    "risk_type": "compliance",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Currency naming convention as per ISO rules",
+    "clause_id": "4f2440e7-d85a-4dde-85ff-2d4a4555b690",
+    "text": "It is advisable to use the rules establish by ISO that name each currency by three capital letters (EUR for euro, USD for dollar, GBP for sterling pound, JPY for Japanese yen, etc",
+    "flesch_score": 42.59454545454548,
+    "industry": "Logistics"
+}

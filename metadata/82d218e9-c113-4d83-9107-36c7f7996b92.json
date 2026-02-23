@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "No response within specified time leads to automatic rejection of conciliation invitation.",
+    "clause_id": "82d218e9-c113-4d83-9107-36c7f7996b92",
+    "text": "(4) If the party initiating conciliation does not receive a reply within thirty days from the date on which he sends the invitation, or within such other period of time as specified in the invitation, he may elect to treat this as a rejection of the invitation to conciliate and if he so elects, he shall inform in writing the other party accordingly",
+    "flesch_score": 1.8900000000000148,
+    "industry": "Logistics"
+}

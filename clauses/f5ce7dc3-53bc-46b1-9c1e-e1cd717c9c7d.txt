@@ -1,0 +1,1 @@
+3  When the text between brackets is in normal letters (the same as the contract) and separated by "," or the word "o", the user must insert one of the options suggested

@@ -1,0 +1,11 @@
+{
+    "category": "Pricing",
+    "risk_type": "payment",
+    "conditions": ", higher than the current rate of interest prevalent on the date of award",
+    "jurisdiction": "Global",
+    "summary": "Exceeding interest rate applicable at time of award",
+    "clause_id": "b9ee4003-76e7-416d-bb21-43f128c0f3e3",
+    "text": "higher than the current rate of interest prevalent on the date of award, from the date of award to the date of payment",
+    "flesch_score": 69.46391304347827,
+    "industry": "Logistics"
+}

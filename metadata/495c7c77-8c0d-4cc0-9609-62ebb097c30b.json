@@ -1,0 +1,11 @@
+{
+    "category": "Dispute Resolution",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Arbitrator has received multiple appointments from same counsel or firm within past 3 years",
+    "clause_id": "495c7c77-8c0d-4cc0-9609-62ebb097c30b",
+    "text": "The arbitrator has within the past three years received more than three appointments by the same counsel or the same law firm",
+    "flesch_score": 69.14136363636365,
+    "industry": "Logistics"
+}

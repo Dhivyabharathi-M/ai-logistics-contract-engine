@@ -1,0 +1,11 @@
+{
+    "category": "Liability",
+    "risk_type": "damage",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Non-liability for losses exceeding a certain threshold unless goods are properly declared.",
+    "clause_id": "431e88cb-3d03-4ffd-91dc-3d3893ad23f0",
+    "text": "Neither the carrier nor the ship shall in any event be or become liable for any loss or damage to or in connection with goods in an 1[amount exceeding 666.67 Special Drawing Rights per package or unit or two Special Drawing Rights per kilogram of gross weight of the goods lost or damaged, whichever is higher] or the equivalent of that sum in other currency, unless the nature and value of such goods have been declared by the shipper before shipment and inserted in the bill of lading",
+    "flesch_score": 37.19772727272729,
+    "industry": "Logistics"
+}

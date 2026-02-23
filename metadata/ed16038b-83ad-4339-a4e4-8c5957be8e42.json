@@ -1,0 +1,11 @@
+{
+    "category": "Dispute Resolution",
+    "risk_type": "general",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "User must specify city and country for arbitration",
+    "clause_id": "ed16038b-83ad-4339-a4e4-8c5957be8e42",
+    "text": "In this case the user must insert in the blank space (...........) the city and country chosen to conduct the arbitration and afterwards eliminate the bracketed text [city and country]",
+    "flesch_score": 55.0071551724138,
+    "industry": "Logistics"
+}

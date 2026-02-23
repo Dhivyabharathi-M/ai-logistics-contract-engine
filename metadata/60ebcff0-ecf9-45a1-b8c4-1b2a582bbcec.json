@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Clause triggers termination if award not made within specified period",
+    "clause_id": "60ebcff0-ecf9-45a1-b8c4-1b2a582bbcec",
+    "text": "(5) If the award is not made within the period specified in sub-section (4), the provisions of sub-sections (3) to (9) of section 29A shall apply to the proceedings",
+    "flesch_score": 46.12413793103451,
+    "industry": "Logistics"
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Registration",
+    "risk_type": "payment",
+    "conditions": "",
+    "jurisdiction": "India",
+    "summary": "Client registration details required.",
+    "clause_id": "5acc0866-2230-4ee6-94b1-60e2533d99df",
+    "text": "[address, city and country] and registration/fiscal number is .............................",
+    "flesch_score": 29.515000000000015,
+    "industry": "Logistics"
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Delivery",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Definition for receipt of written communications",
+    "clause_id": "acdf9e8f-a330-4807-bfd7-b992558bb6a9",
+    "text": "Receipt of written communications.\u2014(1) Unless otherwise agreed by the parties,\u2014 (a) any written communication is deemed to have been received if it is delivered to the addressee personally or at his place of business, habitual residence or mailing address, and (b) if none of the places referred to in clause (a) can be found after making a reasonable inquiry, a written communication is deemed to have been received if it is sent to the addressee's last known place of business, habitual residence or mailing address by registered letter or by any other means which provides a record of the attempt to deliver it",
+    "flesch_score": 14.110072815533982,
+    "industry": "Logistics"
+}

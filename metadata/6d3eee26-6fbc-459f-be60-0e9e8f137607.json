@@ -1,0 +1,11 @@
+{
+    "category": "Pricing",
+    "risk_type": "delay",
+    "conditions": null,
+    "jurisdiction": "Global",
+    "summary": "Commission payment within [X] months of delivery.",
+    "clause_id": "6d3eee26-6fbc-459f-be60-0e9e8f137607",
+    "text": "[1, 2, 3, 6] months shall entitle the Agent to receive the corresponding commission",
+    "flesch_score": 53.639285714285734,
+    "industry": "Logistics"
+}

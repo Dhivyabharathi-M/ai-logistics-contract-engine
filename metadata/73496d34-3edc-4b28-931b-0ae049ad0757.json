@@ -1,0 +1,11 @@
+{
+    "category": "Definitions",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Unknown",
+    "summary": "Defines running time in relation to a working day",
+    "clause_id": "73496d34-3edc-4b28-931b-0ae049ad0757",
+    "text": "- For the purpose of this clause \u2013 (1) \u201crunning time\u201d in relation to a working day means the time from the moment a transport vehicle starts functioning at the beginning of the working day until the moment when the transport vehicle ceases to function at the end of the working day, excluding any time during which the running of the transport vehicle is interrupted for a period exceeding such duration as may be prescribed during which period the persons who drive, or perform any other work in connection with the transport vehicle are free to dispose of their time as they please or are engaged in subsidiary work",
+    "flesch_score": -32.22794392523363,
+    "industry": "Logistics"
+}

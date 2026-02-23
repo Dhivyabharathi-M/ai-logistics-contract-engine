@@ -1,0 +1,11 @@
+{
+    "category": "Confidentiality",
+    "risk_type": "compliance",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Arbitrator holds material shares in a party or its affiliate, potentially leading to conflict of interest.",
+    "clause_id": "7b0f99b0-a5d3-4d41-be5f-5985e0491a84",
+    "text": "The arbitrator holds shares, either directly or indirectly, which by reason of number or denomination constitute a material holding in one of the parties or an affiliate of one of the parties that is publicly listed",
+    "flesch_score": 17.545000000000016,
+    "industry": "Logistics"
+}

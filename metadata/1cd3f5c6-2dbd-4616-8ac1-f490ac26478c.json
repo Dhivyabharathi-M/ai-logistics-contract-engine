@@ -1,0 +1,11 @@
+{
+    "category": "Liability",
+    "risk_type": "damage",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Limitation of liability for mis-stated goods value",
+    "clause_id": "1cd3f5c6-2dbd-4616-8ac1-f490ac26478c",
+    "text": "Where the nature or value of the goods has been knowingly mis-stated by the shipper in the bill of lading, the liability of the carrier or ship shall not exceed the value so stated.] By agreement between the carrier, master or agent of the carrier and the shipper another maximum amount than that mentioned in this paragraph may be fixed, provided that such maximum shall not be less than the figure above named",
+    "flesch_score": 37.672431506849335,
+    "industry": "Logistics"
+}

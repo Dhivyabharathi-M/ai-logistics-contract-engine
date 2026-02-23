@@ -1,0 +1,11 @@
+{
+    "category": "Liability",
+    "risk_type": "damage",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Shipper guarantees accuracy of shipment details and indemsifies carrier against losses/damages",
+    "clause_id": "42ddb395-724d-4c33-aa25-76b087b03450",
+    "text": "The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity, and weight, as furnished by him, and the shipper shall indemnify the carrier against ail loss, damages, and expenses arising or resulting from inaccuracies in such particulars",
+    "flesch_score": 12.265000000000015,
+    "industry": "Logistics"
+}

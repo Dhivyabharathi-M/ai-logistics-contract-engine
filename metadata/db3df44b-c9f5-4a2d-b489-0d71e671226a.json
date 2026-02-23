@@ -1,0 +1,11 @@
+{
+    "category": "Registration",
+    "risk_type": "compliance",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Client registration information",
+    "clause_id": "db3df44b-c9f5-4a2d-b489-0d71e671226a",
+    "text": "[address, city and country] and registration/fiscal number is .............................., represented by .........................",
+    "flesch_score": 19.025000000000006,
+    "industry": "Logistics"
+}

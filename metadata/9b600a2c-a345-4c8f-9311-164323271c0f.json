@@ -1,0 +1,11 @@
+{
+    "category": "Liability",
+    "risk_type": "damage",
+    "conditions": "special precautions",
+    "jurisdiction": "Global",
+    "summary": "Client's failure to notify Service Provider of required care and precautions voids liability for Product damage.",
+    "clause_id": "9b600a2c-a345-4c8f-9311-164323271c0f",
+    "text": "The Service Provider will not be responsible for any loss, injury or damage of the Products if the Client fails to notify the Service Provider the care and special precautions which must be taken with the Products",
+    "flesch_score": 34.377297297297304,
+    "industry": "Logistics"
+}

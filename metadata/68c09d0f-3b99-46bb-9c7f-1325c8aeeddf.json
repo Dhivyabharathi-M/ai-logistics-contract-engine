@@ -1,0 +1,11 @@
+{
+    "category": "Confidentiality",
+    "risk_type": "compliance",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Arbitrator's conflict of interest with their law firm",
+    "clause_id": "68c09d0f-3b99-46bb-9c7f-1325c8aeeddf",
+    "text": "The arbitrator and another arbitrator are lawyers in the same law firm",
+    "flesch_score": 46.60500000000002,
+    "industry": "Logistics"
+}

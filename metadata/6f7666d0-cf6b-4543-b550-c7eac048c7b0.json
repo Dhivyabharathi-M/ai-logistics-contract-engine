@@ -1,0 +1,11 @@
+{
+    "category": "Definitions",
+    "risk_type": "compliance",
+    "conditions": "",
+    "jurisdiction": "Unknown",
+    "summary": "Defining terms for user input",
+    "clause_id": "6f7666d0-cf6b-4543-b550-c7eac048c7b0",
+    "text": "3 \uf0b7 When the text between brackets is in normal letters (the same as the contract) and separated by \",\" or the word \"o\", the user must insert one of the options suggested",
+    "flesch_score": 55.292580645161294,
+    "industry": "Logistics"
+}

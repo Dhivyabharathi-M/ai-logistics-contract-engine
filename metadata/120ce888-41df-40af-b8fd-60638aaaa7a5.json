@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Termination time restriction between 10 PM hours",
+    "clause_id": "120ce888-41df-40af-b8fd-60638aaaa7a5",
+    "text": "(b) between the hours of 10 P.M",
+    "flesch_score": 78.87285714285717,
+    "industry": "Logistics"
+}

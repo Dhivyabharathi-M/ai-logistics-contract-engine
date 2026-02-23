@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Settlement during arbitration terminates proceedings and records a settlement in an arbitral award",
+    "clause_id": "fb9b2a13-0a14-47bb-a6c9-f470eba27cbb",
+    "text": "(2) If, during arbitral proceedings, the parties settle the dispute, the arbitral tribunal shall terminate the proceedings and, if requested by the parties and not objected to by the arbitral tribunal, record the settlement in the form of an arbitral award on agreed terms",
+    "flesch_score": 16.047727272727286,
+    "industry": "Logistics"
+}

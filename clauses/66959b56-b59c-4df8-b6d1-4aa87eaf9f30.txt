@@ -1,0 +1,1 @@
+However, when these contracts are used you should take into account some recommendations common to all of them that are described in this User Guide

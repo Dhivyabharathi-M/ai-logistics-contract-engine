@@ -1,0 +1,11 @@
+{
+    "category": "Definitions",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Unknown",
+    "summary": "Verify date consistency",
+    "clause_id": "e665a128-c7a2-443a-860d-e57e733bf506",
+    "text": "In these cases you have to verify that the two dates inserted in the contract (in the heading and in the corresponding clause) are the same, in order to avoid discrepancies",
+    "flesch_score": 49.83451612903227,
+    "industry": "Logistics"
+}

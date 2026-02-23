@@ -1,0 +1,11 @@
+{
+    "category": "Penalty",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Daily penalty for adolescent worker, based on hours worked in previous calendar year",
+    "clause_id": "1e49576a-3aac-49f4-b425-78da13b63acf",
+    "text": "and (b) if an adolescent, one day for every fifteen days of work performed by him during the previous calendar year",
+    "flesch_score": 52.57714285714289,
+    "industry": "Logistics"
+}

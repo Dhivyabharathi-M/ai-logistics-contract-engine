@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Unknown",
+    "summary": "Termination clause related to orders handled before contract completion",
+    "clause_id": "5d6aa831-53e2-4e5e-907e-e04c3bd21f22",
+    "text": "Example of blank space (........) with options to select between brackets: Orders handled before completion of the present Contract which produce sales transactions within .........",
+    "flesch_score": 48.032065217391334,
+    "industry": "Logistics"
+}

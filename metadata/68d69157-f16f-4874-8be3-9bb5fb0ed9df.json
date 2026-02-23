@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Unknown",
+    "summary": "Less than 15 minutes of presence at terminal termination condition",
+    "clause_id": "68d69157-f16f-4874-8be3-9bb5fb0ed9df",
+    "text": "and (iii) Periods of mere attendance at terminals of less than fifteen minutes",
+    "flesch_score": 56.97846153846157,
+    "industry": "Logistics"
+}

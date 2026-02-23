@@ -1,0 +1,13 @@
+{
+    "classification": {
+        "category": "Termination",
+        "risk_type": "general",
+        "conditions": "",
+        "jurisdiction": "Global",
+        "summary": "Notification requirement for denunciation"
+    },
+    "clause_id": "0e76450f-eea1-47c5-bd3b-2720dbc8ea10",
+    "text": "Denunciation shall be notified in writing to the Secretary-General of the League of Nations, who will immediately send a copy thereof, certified to be in conformity with the notifications, to all the other Contracting Parties, at the same time informing them of the date on which he received it",
+    "flesch_score": 12.071428571428612,
+    "industry": "Logistics"
+}

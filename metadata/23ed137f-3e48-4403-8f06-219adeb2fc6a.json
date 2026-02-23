@@ -1,0 +1,11 @@
+{
+    "category": "Termination",
+    "risk_type": "general",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "User selects term duration",
+    "clause_id": "23ed137f-3e48-4403-8f06-219adeb2fc6a",
+    "text": "In this case the user must choose between options 1, 2, 3 or 6 months and insert one in the blank space (........)",
+    "flesch_score": 84.52318181818181,
+    "industry": "Logistics"
+}

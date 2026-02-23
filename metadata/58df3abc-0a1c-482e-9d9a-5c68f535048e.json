@@ -1,0 +1,11 @@
+{
+    "category": "Force Majeure",
+    "risk_type": "delay",
+    "conditions": "insolvency proceedings, arbitration agreement",
+    "jurisdiction": "Unknown",
+    "summary": "Order for arbitration when party is insolvent and has arbitration agreement",
+    "clause_id": "58df3abc-0a1c-482e-9d9a-5c68f535048e",
+    "text": "(2) Where a person who has been adjudged an insolvent had, before the commencement of the insolvency proceedings, become a party to an arbitration agreement, and any matter to which the agreement applies is required to be determined in connection with, or for the purposes of, the insolvency proceedings, then, if the case is one to which sub-section (1) does not apply, any other party or the receiver may apply to the judicial authority having jurisdiction in the insolvency proceedings for an order directing that the matter in question shall be submitted to arbitration in accordance with the arbitration agreement, and the judicial authority may, if it is of opinion that, having regard to all the circumstances of the case, the matter ought to be determined by arbitration, make an order accordingly",
+    "flesch_score": -75.19499999999996,
+    "industry": "Logistics"
+}

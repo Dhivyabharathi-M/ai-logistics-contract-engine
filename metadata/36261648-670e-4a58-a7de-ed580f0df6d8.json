@@ -1,0 +1,11 @@
+{
+    "category": "Pricing",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Payment delay if rate of interest exceeds current rate on award date.",
+    "clause_id": "36261648-670e-4a58-a7de-ed580f0df6d8",
+    "text": "higher than the current rate of interest prevalent on the date of award, from the date of award to the date of payment",
+    "flesch_score": 69.46391304347827,
+    "industry": "Logistics"
+}

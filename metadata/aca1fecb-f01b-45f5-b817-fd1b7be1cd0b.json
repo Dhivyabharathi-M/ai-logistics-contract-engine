@@ -1,0 +1,11 @@
+{
+    "category": "Pricing",
+    "risk_type": "payment",
+    "conditions": null,
+    "jurisdiction": "Global",
+    "summary": "Higher interest rates applied after contract award and before payment.",
+    "clause_id": "aca1fecb-f01b-45f5-b817-fd1b7be1cd0b",
+    "text": "higher than the current rate of interest prevalent on the date of award, from the date of award to the date of payment",
+    "flesch_score": 69.46391304347827,
+    "industry": "Logistics"
+}

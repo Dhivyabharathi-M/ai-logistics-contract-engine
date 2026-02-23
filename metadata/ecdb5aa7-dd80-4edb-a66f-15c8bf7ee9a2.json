@@ -1,0 +1,11 @@
+{
+    "category": "Dispute Resolution",
+    "risk_type": "delay",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Prevents arbitrator from serving on related issue",
+    "clause_id": "ecdb5aa7-dd80-4edb-a66f-15c8bf7ee9a2",
+    "text": "The arbitrator currently serves, or has served within the past three years, as arbitrator in another arbitration on a related issue involving one of the parties or an affiliate of one of the parties",
+    "flesch_score": 28.007352941176492,
+    "industry": "Logistics"
+}

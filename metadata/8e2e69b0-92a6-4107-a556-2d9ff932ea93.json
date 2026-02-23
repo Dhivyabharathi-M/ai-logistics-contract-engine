@@ -1,0 +1,13 @@
+{
+    "clause_classification": {
+        "category": "Dispute Resolution",
+        "risk_type": "delay",
+        "conditions": "",
+        "jurisdiction": "Global",
+        "summary": "Waiver of right to object in case of non-compliance with arbitration requirements"
+    },
+    "clause_id": "8e2e69b0-92a6-4107-a556-2d9ff932ea93",
+    "text": "Waiver of right to object.\u2014A party who knows that\u2014 (a) any provision of this Part from which the parties may derogate, or (b) any requirement under the arbitration agreement, has not been complied with and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or, if a time limit is provided for stating that objection, within that period of time, shall be deemed to have waived his right to so object",
+    "flesch_score": 35.913344155844186,
+    "industry": "Logistics"
+}

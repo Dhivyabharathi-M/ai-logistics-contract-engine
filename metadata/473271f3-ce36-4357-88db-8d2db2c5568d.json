@@ -1,0 +1,13 @@
+{
+    "classification": {
+        "category": "Definitions",
+        "risk_type": "compliance",
+        "conditions": "",
+        "jurisdiction": "India",
+        "summary": "Provision of canteens for motor transport workers"
+    },
+    "clause_id": "473271f3-ce36-4357-88db-8d2db2c5568d",
+    "text": "--(1) The State Government may make rules requiring that in every place wherein one hundred motor transport workers or more employed in a motor transport undertaking ordinarily call on duty during every day, one or more canteens shall be provided and maintained by the employer for the use of the motor transport workers",
+    "flesch_score": 12.572075471698128,
+    "industry": "Logistics"
+}

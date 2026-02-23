@@ -1,0 +1,11 @@
+{
+    "category": "Dispute Resolution",
+    "risk_type": "general",
+    "conditions": null,
+    "jurisdiction": "Global",
+    "summary": "Arbitration clause included in written contracts referenced in a document.",
+    "clause_id": "69dc9f20-5d80-4c1d-9fb5-3aa2bd82cb18",
+    "text": "(5) The reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement if the contract is in writing and the reference is such as to make that arbitration clause part of the contract",
+    "flesch_score": 28.00710526315791,
+    "industry": "Logistics"
+}

@@ -1,0 +1,13 @@
+{
+    "classification": {
+        "category": "Dispute Resolution",
+        "risk_type": "general",
+        "conditions": "",
+        "jurisdiction": "Global",
+        "summary": "Applies dispute resolution language to counterclaims and defenses"
+    },
+    "clause_id": "0994a440-a2c6-4349-bc0f-2eef1a0893bc",
+    "text": "(9) Where this Part, other than clause (a) of section 25 or clause (a) of sub-section (2) of section 32, refers to a claim, it shall also apply to a counterclaim, and where it refers to a defence, it shall also apply to a defence to that counterclaim",
+    "flesch_score": 43.55250000000001,
+    "industry": "Logistics"
+}

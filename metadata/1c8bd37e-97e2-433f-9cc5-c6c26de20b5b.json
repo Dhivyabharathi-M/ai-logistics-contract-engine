@@ -1,0 +1,11 @@
+{
+    "category": "Penalty",
+    "risk_type": "payment",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Penalty for late payment of claim amount",
+    "clause_id": "1c8bd37e-97e2-433f-9cc5-c6c26de20b5b",
+    "text": "of the claim amount up to Rs",
+    "flesch_score": 103.04428571428575,
+    "industry": "Logistics"
+}

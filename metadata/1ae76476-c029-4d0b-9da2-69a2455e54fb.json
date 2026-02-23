@@ -1,0 +1,11 @@
+{
+    "category": "Registration",
+    "risk_type": "compliance",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Registration details required",
+    "clause_id": "1ae76476-c029-4d0b-9da2-69a2455e54fb",
+    "text": "[address, city and country] and registration/fiscal number is .............................",
+    "flesch_score": 29.515000000000015,
+    "industry": "Logistics"
+}

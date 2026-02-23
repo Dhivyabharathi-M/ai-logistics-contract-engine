@@ -1,0 +1,11 @@
+{
+    "category": "Confidentiality",
+    "risk_type": "general",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Authority requirement for signers",
+    "clause_id": "fe2b94c6-f085-48b4-a3c6-fba4bad2f102",
+    "text": "SIGNATURES People who sign Persons signing the contract on behalf of the company must have the authority to do so and preferably, be entitled on the basis of a power of attorney",
+    "flesch_score": 34.23625000000004,
+    "industry": "Logistics"
+}

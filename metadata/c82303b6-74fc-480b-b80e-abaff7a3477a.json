@@ -1,0 +1,11 @@
+{
+    "category": "Liability",
+    "risk_type": "damage",
+    "conditions": "",
+    "jurisdiction": "Global",
+    "summary": "Shipper's false declaration voids carrier liability for goods loss or damage.",
+    "clause_id": "c82303b6-74fc-480b-b80e-abaff7a3477a",
+    "text": "Neither the carrier nor the ship shall be responsible in any event for loss or damage to or in connection with goods if the nature or value thereof has been knowingly mis-stated by the shipper in the bill of lading",
+    "flesch_score": 39.33500000000002,
+    "industry": "Logistics"
+}
